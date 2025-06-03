@@ -1,5 +1,5 @@
 # Hotel_Management
-This is a comprehensive hotel management web application developed using JSP, JDBC, HTML, CSS, and JavaScript. The system is designed to cater to both customers and administrators with dedicated functionalities for each.
+This is a comprehensive hotel management web application developed using JSP, Java Beans, JDBC, HTML, CSS, and JavaScript. The system is designed to cater to both customers and administrators with dedicated functionalities for each.
 
 Key Features:
 
