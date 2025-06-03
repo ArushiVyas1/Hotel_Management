@@ -1,0 +1,83 @@
+body{
+    background-image: url(khusi.jpg);
+    background-repeat: no-repeat;
+    background-size: 1550px 800px;
+    
+}
+h1{
+
+    font-family: "Montserrat", sans-serif;
+}
+#header {
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+#navigation ul{
+    display: flexbox;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 50px;
+    width: 860px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color:bisque;
+    margin: 20px 320px;
+    border-radius: 25px;
+}
+
+ul {
+    display: inline-flex;
+    justify-content: space-between;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    padding-inline-start: 40px;
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
+    text-decoration-line: none;
+    text-underline-offset:unset;
+
+}
+ul a{
+    text-decoration-line: none;
+    color: black;
+}
+ul li a:hover {
+    text-decoration:solid; 
+    color:coral; 
+  }
+div {
+    display:inline-flexbox;
+    justify-content: center;
+    align-items: center;
+    unicode-bidi: isolate;
+}
+
+#footer{
+    display: flexbox;
+    align-items: baseline;
+    margin-top: 600px ;
+    margin-left: 610px;
+}
+#abt{
+    background-color: bisque;
+    height: 300px;
+    width: 860px;
+    margin-left: 320px;
+    border-radius: 25px;
+    margin-top: 15px;
+}
+#abt:hover {
+    box-shadow: 0 4px 15px black;
+}
+
+.para p {
+    font-size: 20px;
+    padding: 5px;
+}
+#contact{
+    background-color: bisque;
+    width:800px;
+    height: 500px;
+
+}
